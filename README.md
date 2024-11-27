@@ -1,5 +1,4 @@
-# Vision-Chatbot-Image-Preprocessing
-This project features a Vision-Language Model (VLM) based chatbot, built using LangChain and Ollama, which interacts with images to answer questions and provide insights. Additionally, it includes image preprocessing techniques like Fourier Domain Filtering and Edge Detection to enhance image data for further analysis.
+
 # Vision Chatbot & Image Preprocessing
 
 This project integrates a **Vision-Language Model (VLM)** powered **chatbot** that interacts with images, answering questions and providing insights. It also includes **image preprocessing techniques** such as **Fourier Domain Filtering** and **Edge Detection** to prepare images for analysis.
