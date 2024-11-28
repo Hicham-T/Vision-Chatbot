@@ -31,7 +31,7 @@ This project integrates a **Vision-Language Model (VLM)** powered **chatbot** th
 ### 🚀 Superior Efficiency
 [![Chatbot-Screenshot 1](Chatbot-Screenshot 1)](https://github.com/Hicham-T/Vision-Chatbot-Image-Preprocessing/blob/b9ed2aa2de13064f811b4ec53ff4a58d73eed583/Chatbot-Screenshot%201)
 ### 🔥 Leading Performance
-![Chatbot Screenshot](screenshot-math.PNG)
+![Chatbot Screenshot](images/Screenshot-code.png)
 ### Image Preprocessing
 - Implements techniques such as **Fourier Domain Filtering** and **Edge Detection** to process images before passing them to the chatbot for enhanced accuracy and analysis.
 - **Use Cases**: 
