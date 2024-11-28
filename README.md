@@ -26,7 +26,7 @@ This project integrates a **Vision-Language Model (VLM)** powered **chatbot** th
   - Real-time image analysis.
   - Multimodal interactions: text and images.
   ## Screenshot of the Chatbot in Action
-![Chatbot Screenshot](assets/images/chatbot_screenshot.png)
+![Chatbot Screenshot](Chatbot-Screenshot)
 
 ### Image Preprocessing
 - Implements techniques such as **Fourier Domain Filtering** and **Edge Detection** to process images before passing them to the chatbot for enhanced accuracy and analysis.
