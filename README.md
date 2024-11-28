@@ -29,7 +29,7 @@ This project integrates a **Vision-Language Model (VLM)** powered **chatbot** th
  ### 💪 Strong OCR Capability
 ![Chatbot Screenshot](Chatbot-Screenshot)
 ### 🚀 Superior Efficiency
-[![Chatbot-Screenshot 1](Chatbot-Screenshot 1)](https://github.com/Hicham-T/Vision-Chatbot-Image-Preprocessing/blob/b9ed2aa2de13064f811b4ec53ff4a58d73eed583/Chatbot-Screenshot%201)
+[![Chatbot-Screenshot 1](images/Screenshot-id.png)
 ### 🔥 Leading Performance
 ![Chatbot Screenshot](images/Screenshot-code.png)
 ### Image Preprocessing
