@@ -26,10 +26,10 @@ This project integrates a **Vision-Language Model (VLM)** powered **chatbot** th
   - Real-time image analysis.
   - Multimodal interactions: text and images.
   ## Screenshot of the Chatbot in Action
- ### 💪 Strong OCR Capability
-![Chatbot Screenshot](Chatbot-Screenshot)
 ### 🚀 Superior Efficiency
-[![Chatbot-Screenshot 1](images/Screenshot-id.png)
+![Chatbot Screenshot](images/Screenshot-math.PNG)
+### 💪 Strong OCR Capability
+![Chatbot-Screenshot 1](images/Screenshot-id.png)
 ### 🔥 Leading Performance
 ![Chatbot Screenshot](images/Screenshot-code.png)
 ### Image Preprocessing
