@@ -28,7 +28,10 @@ This project integrates a **Vision-Language Model (VLM)** powered **chatbot** th
   ## Screenshot of the Chatbot in Action
  ### 💪 Strong OCR Capability
 ![Chatbot Screenshot](Chatbot-Screenshot)
-
+### 🚀 Superior Efficiency
+![Chatbot Screenshot](Chatbot-Screenshot1)
+### 🔥 Leading Performance
+![Chatbot Screenshot](screenshot-math)
 ### Image Preprocessing
 - Implements techniques such as **Fourier Domain Filtering** and **Edge Detection** to process images before passing them to the chatbot for enhanced accuracy and analysis.
 - **Use Cases**: 
