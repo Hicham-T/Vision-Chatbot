@@ -1,4 +1,4 @@
-# Vision Chatbot & Image Preprocessing
+# Vision Chatbot 
 
 This project integrates a **Vision-Language Model (VLM)** powered **chatbot** that interacts with images, answering questions and providing insights.
 ### 🚀 Superior Efficiency
@@ -48,6 +48,11 @@ To enable chatbot functionality, first download and install **Ollama**. Visit th
 - **Download Ollama**: [Here](https://www.ollama.com).
 
 ### 3.2 Step 2: Download Required Models
+After installing Ollama, download the necessary models. For example, to download the `minicpm-v` model, run:
+```bash
+ollama pull minicpm-v
+
+### 3.3 Step 3: Download Required Models
 After installing Ollama, download the necessary models. For example, to download the `minicpm-v` model, run:
 ```bash
 ollama pull minicpm-v
