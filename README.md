@@ -55,5 +55,6 @@ ollama pull minicpm-v
 
 ### 3.3 Step 3: Run the Chatbot
 Once the models are downloaded, you can start the chatbot application using Streamlit. Open a terminal in the project directory and run the following command:
-
-
+```bash
+streamlit run chatbot.py
+```
